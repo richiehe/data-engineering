@@ -70,4 +70,6 @@ The related package spark-sql-kafka-0-10 should be added as parameters, shown as
 ./spark-submit --conf spark.eventLog.enabled=false  --master spark://SPARK_URL --packages org.apache.spark:spark-sql-kafka-0-10_2.11:2.3.2,com.typesafe:config:1.3.2 structured_streaming_kafka_2.11-0.1.jar
 ```
 
+> Note: spark-sql-kafka-0-10_2.11:2.3.2, **2.11** is scala version and **2.3.2** is spark version
+
 > Note: If there are more than one packages as parameter, you should use commas to separate them without whitespaces
