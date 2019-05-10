@@ -1,4 +1,4 @@
-# 5 Vs
+# 5 main characteristics of big data
 
 The characteristics of big data are 5 Vs as shown as follows,
 
