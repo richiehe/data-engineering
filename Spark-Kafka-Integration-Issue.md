@@ -1,6 +1,6 @@
 # Failed to find data source: kafka
 
-## Problem Description
+## Problem Description⚠️
 Spark Structured Streaming could intergrate with Apache Kafka, the key parts of code is shown as follows,
 
 build.sbt
@@ -63,7 +63,7 @@ Caused by: java.lang.ClassNotFoundException: kafka.DefaultSource
 ```
 
 
-## Solution
+## Solution✏️
 The related package spark-sql-kafka-0-10 should be added as parameters, shown as follows,
 
 ```bash
