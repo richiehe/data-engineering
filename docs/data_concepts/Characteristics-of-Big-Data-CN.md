@@ -1,4 +1,4 @@
-# 5 main characteristics of big data
+# 大数据主要的5个特征
 
 大数据有以下5个的特征, 简称5V
 
