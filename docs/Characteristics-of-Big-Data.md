@@ -30,7 +30,7 @@ The characteristics of big data are 5 Vs as shown as follows,
 
 4. **Veracity** ✅: It referred to as validity or volatility referring to the lifetime of the data. Veracity is very important for making big data operational, because big data can be noisy and uncertain, it can be full of biases, abnormalities and it can be imprecise. 
 
-> Junk IN🗑 == Junk OUT🗑
+    > Junk IN🗑 == Junk OUT🗑
 
 
 5. **Value** 💎: The heart of the big data challenge is turning all of the other dimensions into truly useful business value.
