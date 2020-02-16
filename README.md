@@ -3,7 +3,7 @@
 此Repo总结了一些数据工程的概念，经验以及代码实践，内容会在后续会慢慢完善并且增加
 
 ### 数据概念
-- [大数据5V](docs/Characteristics-of-Big-Data.md)
+- [大数据5V](docs/data_concepts/Characteristics-of-Big-Data.md)
 - 什么是ETL
 - Source vs Sink
 - 什么是Orchestration
@@ -37,5 +37,9 @@
 - S3 -> EMR -> S3
 - Kafka -> Elasticsearch -> Kibana
 - Spring Boot -> Kafka -> Spark
+- Airflow调度Spark程序
 
 ### 机器学习入门
+
+### 环境问题解决
+- [Spark与Kafka集成问题](/docs/issues/Spark-Kafka-Integration-Issue.md)
