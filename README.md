@@ -3,7 +3,7 @@
 此Repo总结了一些数据工程的概念，经验以及代码实践，内容会在后续会慢慢完善并且增加
 
 ### 数据概念
-- [大数据5V](docs/data_concepts/Characteristics-of-Big-Data.md)
+- [大数据5V](docs/data_concepts/Characteristics-of-Big-Data-CN.md)
 - 什么是ETL
 - Source vs Sink
 - 什么是Orchestration
