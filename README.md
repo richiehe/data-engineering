@@ -16,7 +16,7 @@
 
 
 ### 开发环境准备
-- 本地设置Python虚拟环境 - pyenv
+- [本地设置Python虚拟环境 - pyenv](docs/dev_env/python_local_env_setup.md)
 - 本地设置Python虚拟环境 - pipenv
 - 在PyCharm IDE上配置python虚拟环境
 - 在本机搭建Spark
