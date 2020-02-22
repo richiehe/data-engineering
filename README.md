@@ -4,7 +4,7 @@
 
 ### 数据概念
 - [大数据5V](docs/data_concepts/Characteristics-of-Big-Data-CN.md)
-- 什么是ETL
+- [什么是ETL](docs/data_concepts/what-is-etl.md)
 - 数据湖 vs 数据仓库 vs 数据集市
 - Source vs Sink
 - 什么是Orchestration
