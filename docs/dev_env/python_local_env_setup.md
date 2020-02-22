@@ -37,9 +37,9 @@ eval "$(pyenv init -)"
 pyenv install --list
 ```
 
-安装某个版本的python，比如说安装3.7.3
+安装某个版本的python，比如说安装3.6.8
 ```bash
-pyenv install 3.7.3
+pyenv install 3.6.8
 ```
 
 列出系统中python的可用版本
@@ -47,15 +47,15 @@ pyenv install 3.7.3
 pyenv versions
 ```
 
-将系统中的python版本设置为某个版本，比如说设置成3.7.3
+将系统中的python版本设置为某个版本，比如说设置成3.6.8
 ```bash
-pyenv global 3.7.3
+pyenv global 3.6.8
 ```
 
 检查python版本
 ```bash
 $ python --version
-Python 3.7.3
+Python 3.6.8
 ```
 
 ## pyenv-virtualenv
@@ -73,9 +73,9 @@ eval "$(pyenv virtualenv-init -)"
 
 创建python虚拟环境
 ```bash
-pyenv virtualenv 3.7.3 my-virtual-env
+pyenv virtualenv 3.6.8 my-virtual-env
 ```
-> 这个指令说明一下，3.7.3是你需要基于的python版本，这个python版本可以通过之前pyenv的指令进行安装，后面my-virtual-env是你创建这个虚拟环境的名称，以后需要根据这个名字进入这个虚拟环境
+> 这个指令说明一下，3.6.8是你需要基于的python版本，这个python版本可以通过之前pyenv的指令进行安装，后面my-virtual-env是你创建这个虚拟环境的名称，以后需要根据这个名字进入这个虚拟环境
 
 
 进入python虚拟环境
