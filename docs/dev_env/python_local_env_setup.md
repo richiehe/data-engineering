@@ -42,22 +42,6 @@ pyenv install --list
 pyenv install 3.6.8
 ```
 
-列出系统中python的可用版本
-```bash
-pyenv versions
-```
-
-将系统中的python版本设置为某个版本，比如说设置成3.6.8
-```bash
-pyenv global 3.6.8
-```
-
-检查python版本
-```bash
-$ python --version
-Python 3.6.8
-```
-
 ## pyenv-virtualenv
 pyenv-virtualenv其实就是pyenv的一个插件，用来管理python的各种虚拟环境，有了这个虚拟环境以后，再也不用担心pip install会污染以前安装过的python的依赖包了。
 
