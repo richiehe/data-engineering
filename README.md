@@ -6,7 +6,7 @@
 - [大数据5V](docs/data_concepts/Characteristics-of-Big-Data-CN.md)
 - [什么是ETL](docs/data_concepts/what-is-etl.md)
 - [数据湖 vs 数据仓库 vs 数据集市](docs/data_concepts/data-lake-warehouse-mart.md)
-- Source vs Sink
+- [Source vs Sink](docs/data_concepts/source-sink.md)
 - 什么是Orchestration
 - 批处理 vs 流处理 
 - 架构对比：Lambda vs Kappa
